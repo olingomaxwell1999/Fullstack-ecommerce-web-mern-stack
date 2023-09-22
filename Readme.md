@@ -1,0 +1,1 @@
+## This is a Full Stack Eccommerce Built with the MERN Stack.
